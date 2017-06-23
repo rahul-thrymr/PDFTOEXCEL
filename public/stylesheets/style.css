@@ -1,0 +1,16 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #eee;
+}
+.color{
+	color: orange;
+}
+.marginBottom-10{
+	margin-bottom: 10px;
+}
+.marginBottom-30{
+	margin-bottom: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Roboto Slab', serif;
+}
